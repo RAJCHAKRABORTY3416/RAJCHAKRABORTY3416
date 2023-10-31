@@ -1,7 +1,7 @@
 # 💫 About Me:
-I’m currently pursuing  B.SC in Mathematics at Bankura Sammilani College<br>I'm a passionate self-taught full-stack web developer<br>I love to contribute to open-source projects<br>
-
-
+Hello👋I’m Raj Chakraborty, a passionate self-taught full-stack web developer and a freelancer from India👨‍💻My passion for Design and Development lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, design, and code quality of the things I build ✅
+<br>
+I am also an open-source Contributor. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source🌐<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ifeelraj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-chakraborty-16556317b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IAMRAJOP) 
 
