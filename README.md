@@ -14,7 +14,7 @@ I am also an open-source Contributor. I learned a lot from the open-source commu
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RAJCHAKRABORTY3416&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=RAJCHAKRABORTY3416&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
